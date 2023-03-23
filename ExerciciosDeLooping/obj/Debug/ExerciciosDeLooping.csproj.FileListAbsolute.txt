@@ -1,0 +1,12 @@
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.AssemblyReference.cache
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.SuggestedBindingRedirects.cache
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmmenu.resources
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.Properties.Resources.resources
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.GenerateResource.cache
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.CoreCompileInputs.cache
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.exe.config
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.exe
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.pdb
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.exe
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.pdb
+C:\Users\2dsetim\Desktop\Isa.Carol\DS\Aula1703\ExercicioLoopingC#\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmexercicio1.resources

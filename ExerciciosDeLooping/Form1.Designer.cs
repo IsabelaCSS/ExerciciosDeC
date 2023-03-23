@@ -39,8 +39,8 @@
             this.exercicios3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
             this.exercicios4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -91,39 +91,45 @@
             this.exercicios1ToolStripMenuItem.Name = "exercicios1ToolStripMenuItem";
             this.exercicios1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.exercicios1ToolStripMenuItem.Text = "Exercicios 1";
+            this.exercicios1ToolStripMenuItem.Click += new System.EventHandler(this.exercicios1ToolStripMenuItem_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(132, 6);
             // 
             // exercicios2ToolStripMenuItem
             // 
             this.exercicios2ToolStripMenuItem.Name = "exercicios2ToolStripMenuItem";
-            this.exercicios2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exercicios2ToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.exercicios2ToolStripMenuItem.Text = "Exercicios 2";
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(132, 6);
             // 
             // exercicios3ToolStripMenuItem
             // 
             this.exercicios3ToolStripMenuItem.Name = "exercicios3ToolStripMenuItem";
-            this.exercicios3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exercicios3ToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.exercicios3ToolStripMenuItem.Text = "Exercicios 3";
             // 
             // toolStripSeparator4
             // 
             this.toolStripSeparator4.Name = "toolStripSeparator4";
-            this.toolStripSeparator4.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator4.Size = new System.Drawing.Size(132, 6);
             // 
             // exercicios4ToolStripMenuItem
             // 
             this.exercicios4ToolStripMenuItem.Name = "exercicios4ToolStripMenuItem";
-            this.exercicios4ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exercicios4ToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.exercicios4ToolStripMenuItem.Text = "Exercicios 4";
+            // 
+            // toolStripSeparator5
+            // 
+            this.toolStripSeparator5.Name = "toolStripSeparator5";
+            this.toolStripSeparator5.Size = new System.Drawing.Size(132, 6);
             // 
             // sairToolStripMenuItem
             // 
@@ -131,11 +137,6 @@
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
-            // 
-            // toolStripSeparator5
-            // 
-            this.toolStripSeparator5.Name = "toolStripSeparator5";
-            this.toolStripSeparator5.Size = new System.Drawing.Size(177, 6);
             // 
             // frmmenu
             // 
