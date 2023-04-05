@@ -44,7 +44,7 @@ namespace ExerciciosDeLooping
 
             num = Convert.ToInt32(txtnum.Text); 
             
-            for (i = 0; i <= 10; i++)
+            for (i = 1; i <= 10; i++)
             {
                 resultado = num * i;
 
