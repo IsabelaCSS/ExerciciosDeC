@@ -52,5 +52,34 @@ namespace ExerciciosDeLooping
 
             }
         }
+
+        private void btnenquanto_Click(object sender, EventArgs e)
+        {
+           int num, resultado, i;
+
+            num = Convert.ToInt32(txtnum.Text);
+            i = 1;
+                while( i <= 10)
+                {
+                    resultado = (num * i);
+                    txtresultado.Text = String.Concat(txtresultado.Text, "\r\n", resultado.ToString());
+                    i++;
+                }
+
+        }
+
+        private void btnrepita_Click(object sender, EventArgs e)
+        {
+            int num, resultado, i;
+
+            num = Convert.ToInt32(txtnum.Text);
+            i = 1;
+            do{
+                resultado = (i * num);
+                i++;
+
+                txtresultado.Text = String.Concat(txtresultado.Text, "\r\n", resultado.ToString());
+            } while (i <= 10);
+        }
     }
 }

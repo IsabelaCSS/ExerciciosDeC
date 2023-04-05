@@ -49,5 +49,10 @@ namespace ExerciciosDeLooping
             frmexercicio2 fm = new frmexercicio2();
             fm.Show();
         }
+
+        private void frmmenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

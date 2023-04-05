@@ -23,3 +23,16 @@ C:\Users\Isabela\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\Ex
 C:\Users\Isabela\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.exe
 C:\Users\Isabela\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.pdb
 C:\Users\Isabela\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmexercicio2.resources
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.exe.config
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.exe
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\bin\Debug\ExerciciosDeLooping.pdb
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.AssemblyReference.cache
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmmenu.resources
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmexercicio1.resources
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.frmexercicio2.resources
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.Properties.Resources.resources
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.GenerateResource.cache
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.csproj.CoreCompileInputs.cache
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.exe
+C:\Users\Carol-LT\Documents\GitHub\ExerciciosDeC\ExerciciosDeLooping\obj\Debug\ExerciciosDeLooping.pdb
