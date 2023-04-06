@@ -40,7 +40,7 @@ namespace ExerciciosDeLooping
         {
             double l, total;
             char cod;
-
+            //comentario
             cod = Convert.ToChar (txttipo.Text);
             l = Convert.ToDouble (txtlitro.Text);
 
