@@ -41,5 +41,18 @@ namespace ExerciciosDeLooping
             fm.Show();
 
         }
+
+        private void exercicios2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            frmexercicio2 fm = new frmexercicio2();
+            fm.Show();
+        }
+
+        private void frmmenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
